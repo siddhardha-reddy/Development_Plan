@@ -1,0 +1,12 @@
+|  Day 1  | Java Setup + Hello World + Syntax    | Install JDK & IDE (IntelliJ or Eclipse), write Hello World, comments, basic syntax | 1.5 hrs  |
+|  Day 2  | Data Types & Variables + Typecasting | int, float, char, boolean, String; implicit/explicit casting                       | 1.5 hrs  |
+|  Day 3  | Operators & Expressions              | Arithmetic, relational, logical, assignment                                        | 1.5 hrs  |
+|  Day 4  | Conditional Statements               | `if`, `else`, `switch` statements – basic problem-solving                          | 1.5 hrs  |
+|  Day 5  | Loops                                | `for`, `while`, `do-while`, nested loops – pattern problems                        | 1.5 hrs  |
+|  Day 6  | Methods & Method Overloading         | Method definition, parameters, return types, overloading examples                  | 1.5 hrs  |
+|  Day 7   | Classes and Objects                   | Define class, create object, fields/methods                | 1.5 hrs  |
+|  Day 8   | Constructors + `this` keyword         | Default & parameterized constructors, constructor chaining | 1.5 hrs  |
+|  Day 9   | Encapsulation & Abstraction           | Private fields, getters/setters, abstract class basics     | 1.5 hrs  |
+|  Day 10  | Inheritance + `super` keyword         | `extends` keyword, calling parent constructor              | 1.5 hrs  |
+|  Day 11  | Polymorphism                          | Method overriding, compile-time vs runtime polymorphism    | 1.5 hrs  |
+|  Day 12  | Access Modifiers + Static vs Instance | public/private/protected/default, static methods/fields    | 1.5 hrs  |
